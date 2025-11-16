@@ -10,7 +10,7 @@ Currently App Launcher suports:
 
 + RaspiConnection
 
-+ Conchi
++ Cata
 
 ### More apps coming soon!
 
